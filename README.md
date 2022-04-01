@@ -1,6 +1,8 @@
+-# **Welcome to my GitHub page**
+
 - 👋 Hi, I’m Robert
 - 
-- 👀 I’m interested in SQL,JAVA and Python
+- 👀 I’m interested in **SQL, JAVA and Python**
 - 
 - 🌱 I’m currently learning as much as I can
 - 
